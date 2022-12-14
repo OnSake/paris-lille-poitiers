@@ -1,0 +1,31 @@
+body {
+  background-repeat: no-repeat;
+
+  background-size: 175%;
+
+  background-image: url("https://th.bing.com/th/id/OIP.F8IdeqPWbNCc_fW_a1nn-wHaDW?w=338&h=158&c=7&r=0&o=5&pid=1.7");
+}
+
+.top_part {
+  display: flex;
+  justify-content: space-around;
+}
+
+.title_part {
+  margin-top: 50px;
+  margin-left: -5px;
+  display: flex;
+  justify-content: space-around;
+}
+
+video {
+  border-radius: 20px;
+}
+
+img {
+  border-radius: 10%;
+}
+
+a {
+  cursor: pointer;
+}
